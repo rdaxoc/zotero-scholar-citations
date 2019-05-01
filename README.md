@@ -1,5 +1,5 @@
 # '1.9.4Chem'
-Builds on the Original Repo [beloglazov/zotero-scholar-citations](https://github.com/beloglazov/zotero-scholar-citations) and fixed version 1.9.4 by Texot(https://github.com/tete1030). This version removes <sub> and </sub> tags in the titles of papers making it useful for fields like Chemical Engineering and Chemistry which have a lot of compound formulae in title (e.g. H<sub>2</sub>O, CO<sub>2</sub>).
+Builds on the Original Repo [beloglazov/zotero-scholar-citations](https://github.com/beloglazov/zotero-scholar-citations) and fixed version 1.9.4 by Texot(https://github.com/tete1030). This version removes subscript tags in the titles of papers making it useful for fields like Chemical Engineering and Chemistry which have a lot of compound formulae in title (e.g. H<sub>2</sub>O, CO<sub>2</sub>).
 
 # `00000` Problem in Original Repo [beloglazov/zotero-scholar-citations](https://github.com/beloglazov/zotero-scholar-citations)
 
